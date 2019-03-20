@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Java Script Vezba</title>
+	<title>Java Script</title>
 </head>
 <body>
 	<h1 id="pera">Ovo je H1</h1>
